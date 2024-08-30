@@ -38,6 +38,6 @@ This repository contains the code and scripts used in the analysis presented in 
 ## Methods
 The methods related to the analysis performed in this project can be found in the manuscript Methods section. 
 
-This document provides detailed descriptions of the experimental procedures, data preprocessing, and analytical approaches used in the study.
+This document provides detailed descriptions of the data preprocessing and analytical approaches used in the study.
 
 Feel free to explore the code and data provided in this repository. If you have any questions or need further information, please refer to the manuscript or contact the corresponding author.
